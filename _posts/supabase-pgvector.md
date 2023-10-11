@@ -9,6 +9,7 @@ author:
 ogImage:
   url: '/assets/blog/pgvector/arpagon__dynamic_scene_of_a_PostgreSQL_logo_surrounded_by_float_97e46d53-b243-40ac-b983-19065c16f515.png'
 ---
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arpagon.svg?style=social&label=Follow%20%40arpagon)](https://twitter.com/arpagon)
 
 This post is available as a [Jupyter Notebook](https://github.com/ArtisanLabs/chatgpt-your-files/blob/main/tools/langchain/main.ipynb).
 
