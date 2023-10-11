@@ -12,6 +12,8 @@ ogImage:
 
 # Introduction
 
+!()[]
+
 In today's fast-paced world of technological innovation, AI engineers need to stay up-to-date on the latest tools and frameworks. This was the central theme of the AI Engineer Summit held from October 8-10, 2023, in San Francisco, California. The summit brought together thought leaders, industry veterans, and budding engineers, all united by their passion for artificial intelligence.
 
 One workshop that stood out was "Pgvector to Prod in 2 hours." The title was both ambitious and exciting: could we build a production-ready web app in just two hours? I was curious to find out, so I signed up for the workshop.
