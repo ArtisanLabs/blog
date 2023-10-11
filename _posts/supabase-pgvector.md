@@ -10,9 +10,14 @@ ogImage:
   url: '/assets/blog/pgvector/arpagon__dynamic_scene_of_a_PostgreSQL_logo_surrounded_by_float_97e46d53-b243-40ac-b983-19065c16f515.png'
 ---
 
+This post is avaible in Jupyter Notebook https://github.com/ArtisanLabs/chatgpt-your-files/blob/main/tools/langchain/main.ipynb
+
 # Introduction
 
-!()[]
+Workshop: https://www.ai.engineer/summit/schedule/workshop-supabase
+Github: https://github.com/supabase-community/chatgpt-your-files/
+Our Githu: https://github.com/ArtisanLabs/chatgpt-your-files/  
+
 
 In today's fast-paced world of technological innovation, AI engineers need to stay up-to-date on the latest tools and frameworks. This was the central theme of the AI Engineer Summit held from October 8-10, 2023, in San Francisco, California. The summit brought together thought leaders, industry veterans, and budding engineers, all united by their passion for artificial intelligence.
 
