@@ -1,6 +1,6 @@
 ---
 title: 'Extending Workshop Learnings: From Supabase and PGvector to LangChain'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'In this post, we explore the key learnings from the "Pgvector to Prod in 2 hours workshop", led by Greg Richardson, an expert on Supabase and PGvector. We delve into the world of Supabase and PGvector, comparing them with LangChain, a tool we''re familiar with. We also discuss how these technologies can be used to build AI applications quickly and efficiently. The post further shares insights on how the workshop inspired us to venture into a new project with LangChain, and how it enriched our perspective on AI application development'
 coverImage: '/assets/blog/pgvector/arpagon__dynamic_scene_of_a_PostgreSQL_logo_surrounded_by_float_97e46d53-b243-40ac-b983-19065c16f515.png'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -10,13 +10,13 @@ ogImage:
   url: '/assets/blog/pgvector/arpagon__dynamic_scene_of_a_PostgreSQL_logo_surrounded_by_float_97e46d53-b243-40ac-b983-19065c16f515.png'
 ---
 
-This post is avaible in Jupyter Notebook https://github.com/ArtisanLabs/chatgpt-your-files/blob/main/tools/langchain/main.ipynb
+This post is available as a [Jupyter Notebook](https://github.com/ArtisanLabs/chatgpt-your-files/blob/main/tools/langchain/main.ipynb).
 
 # Introduction
 
-Workshop: https://www.ai.engineer/summit/schedule/workshop-supabase
-Github: https://github.com/supabase-community/chatgpt-your-files/
-Our Githu: https://github.com/ArtisanLabs/chatgpt-your-files/  
+[Workshop](https://www.ai.engineer/summit/schedule/workshop-supabase)
+[Github](https://github.com/supabase-community/chatgpt-your-files/)
+[Our Github](https://github.com/ArtisanLabs/chatgpt-your-files/)
 
 
 In today's fast-paced world of technological innovation, AI engineers need to stay up-to-date on the latest tools and frameworks. This was the central theme of the AI Engineer Summit held from October 8-10, 2023, in San Francisco, California. The summit brought together thought leaders, industry veterans, and budding engineers, all united by their passion for artificial intelligence.
