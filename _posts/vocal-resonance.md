@@ -1,6 +1,7 @@
 ---
 title: 'Vocal Resonance'
 description: 'Vocal Resonance: Setting the Tone for Voice-Based Innovations at Artisan Labs'
+excerpt: 'Embark on a resonant journey with us at Artisan Labs as we delve into the realm of voice-based technology in our tech blog''s inaugural segment, "Vocal Resonance." This space is dedicated to showcasing the transformative potential of voice-powered AI in fostering intuitive and engaging human-machine interactions. From exploring the core of voice technology to unfolding practical insights, we invite you to tune into a dialogue that transcends text, setting a new tone for technological innovation. Stay tuned, stay vocal, and let''s resonate with the future of voice together!'
 author:
   name: Sebastian Rojo
   picture: '/assets/blog/authors/me_2023_ArtisanLabs_nologo_300dpi.png'
