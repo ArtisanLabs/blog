@@ -1,15 +1,16 @@
 ---
 title: 'Extending Workshop Learnings: From Supabase and PGvector to LangChain'
 excerpt: 'In this post, we explore the key learnings from the "Pgvector to Prod in 2 hours workshop", led by Greg Richardson, an expert on Supabase and PGvector. We delve into the world of Supabase and PGvector, comparing them with LangChain, a tool we''re familiar with. We also discuss how these technologies can be used to build AI applications quickly and efficiently. The post further shares insights on how the workshop inspired us to venture into a new project with LangChain, and how it enriched our perspective on AI application development'
-coverImage: '/assets/blog/pgvector/arpagon__dynamic_scene_of_a_PostgreSQL_logo_surrounded_by_float_97e46d53-b243-40ac-b983-19065c16f515.png'
-date: '2020-03-16T05:35:07.322Z'
+coverImage: '/assets/blog/vocal-resonance/arpagon__Black_c1c8fda8-6189-4ecd-b765-b290199613b9.png'
+date: '2023-10-10T05:35:07.322Z'
 author:
   name: Sebastian Rojo
-  picture: 'assets/blog/authors/me_2023_ArtisanLabs_nologo_300dpi.png'
+  picture: '/assets/blog/authors/me_2023_ArtisanLabs_nologo_300dpi.png'
 ogImage:
-  url: '/assets/blog/pgvector/arpagon__dynamic_scene_of_a_PostgreSQL_logo_surrounded_by_float_97e46d53-b243-40ac-b983-19065c16f515.png'
+  url: '/assets/blog/vocal-resonance/arpagon__Black_c1c8fda8-6189-4ecd-b765-b290199613b9.png'
 ---
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arpagon.svg?style=social&label=Follow%20%40arpagon)](https://twitter.com/arpagon)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/arpagon.svg?style=social&label=Follow%20%40arpagon)](https://twitter.com/arpagon) 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ArtisanLabsAI.svg?style=social&label=Follow%20%40ArtisanLabsAI)](https://twitter.com/ArtisanLabsAI)
 
 This post is available as a [Jupyter Notebook](https://github.com/ArtisanLabs/chatgpt-your-files/blob/main/tools/langchain/main.ipynb).
 

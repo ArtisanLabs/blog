@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`ArtisanLabs Blog `}</title>
+          <title>{`Vocal Resonance Artisan Labs Blog`}</title>
         </Head>
         <Container>
           <Intro />

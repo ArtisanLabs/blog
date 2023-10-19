@@ -16,3 +16,9 @@
 .markdown h3 {
   @apply text-2xl mt-8 mb-4 leading-snug;
 }
+
+.markdown a {
+  /* Change the color of the links to dark violet */
+  color: darkviolet;
+  text-decoration: underline;
+}
