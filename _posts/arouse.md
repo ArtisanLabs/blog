@@ -31,7 +31,8 @@ Utilizamos [Supabase](https://supabase.io) y [PgVector](https://github.com/ankan
 El diseño y desarrollo del frontend, utilizando [Vue.js](https://vuejs.org/), presentó desafíos únicos, especialmente al integrar estas tecnologías emergentes en una interfaz de usuario intuitiva. Este proyecto no solo fue un logro técnico, sino también una aventura en la vanguardia de la IA.
 
 
-## El Cambio con la Tecnología de OpenAI
+## El Cambio con la Tecnología de OpenAI y su Jardin Amurallado
+![Walled Garden Diagram](/assets/blog/arouse/arpagon__Walled_Gardendiagram_outline_an_illustration_on_black__076ec9e3-8c68-40e4-a0e6-28cb74b59331.png)
 
 ### OpenAI DevDay
 El [DevDay de OpenAI](https://devday.openai.com/) presentó los [GPTs](https://openai.com/blog/introducing-gpts) y [Assistants API Beta](https://platform.openai.com/docs/assistants/overview/agents), marcando un avance significativo en la accesibilidad y personalización de la IA. Estas herramientas ofrecen soluciones personalizadas eficientes, permitiendo a los usuarios crear versiones de ChatGPT para diversos propósitos.
@@ -39,11 +40,11 @@ El [DevDay de OpenAI](https://devday.openai.com/) presentó los [GPTs](https://o
 ### Avance Tecnológico vs. Experiencia Previa
 La realidad sorprendente que enfrentamos es que lo que nos llevó meses de desarrollo intensivo en [Risepal](https://www.risepal.com/), como la creación de nuestro asistente [Arouse](https://arouse.risepal.com) utilizando sistemas como RAG, pudimos replicarlo en minutos con los GPTs de OpenAI. Esta experiencia, donde integramos nuestra extensa base de conocimiento en el proceso, no solo nos llenó de asombro, sino también de ansiedad. Nos hizo reflexionar profundamente sobre el valor del trabajo humano en la era del rápido progreso tecnológico.
 
-### Problemas y Dependencia: El Jardin Amurallado
-![Walled Garden Diagram](/assets/blog/arouse/arpagon__Walled_Gardendiagram_outline_an_illustration_on_black__076ec9e3-8c68-40e4-a0e6-28cb74b59331.png)
-Además, emerge la noción del "jardín amurallado" con estos avances, donde la dependencia en un ecosistema único y la opacidad de estos sistemas plantean preocupaciones sobre la autonomía tecnológica y la transparencia.
+### Problemas y Dependencia
+Además, emerge la noción del [jardín amurallado](https://medium.com/@EricVogelpohl/openais-first-devdays-my-take-2416dee817be) con estos avances, donde la dependencia en un ecosistema único y la opacidad de estos sistemas plantean preocupaciones sobre la autonomía tecnológica y la transparencia.
 
 ## Reflexiones y Dilemas
+![refelct](/assets/blog/arouse/arpagon__conceptual_image_illustrating_the_balance_between_tech_05b15754-560f-4706-bf3c-8cc93b875476.png)
 
 ### Equilibrando Innovación y Autonomía
 Nos encontramos en un punto crítico, donde la eficiencia proporcionada por herramientas como los GPTs de OpenAI debe equilibrarse con la necesidad de transparencia y autonomía en la innovación. La dependencia de soluciones pre-empaquetadas y sistemas opacos plantea interrogantes sobre el control y comprensión de la tecnología que empleamos.
@@ -59,10 +60,3 @@ Decidimos liberar nuestro conocimiento acumulado en Risepal, integrándolo con l
 [Arouse GPTs](https://chat.openai.com/g/g-WBHpMn1pN-risepal-arouse-career-ai)
 
 [![Arouse GPTs](/assets/blog/arouse/arouse_GPTs_2023-11-10_11-26-52.png)](https://chat.openai.com/g/g-WBHpMn1pN-risepal-arouse-career-ai)
-
-
-
-
-
-
-
