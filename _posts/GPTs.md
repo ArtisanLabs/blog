@@ -1,13 +1,13 @@
 ---
 title: 'Liberación de la Base de Conocimiento de Risepal: Un Impulso al Talento Tech en Latinoamérica'
 excerpt: 'Risepal anuncia la liberación de su extensa base de conocimiento, integrada en RisePal Arouse Career AI, como un recurso clave para el desarrollo profesional en Latinoamérica.'
-coverImage: '/assets/blog/arouse/arpagon__A_book_open_visually_engaging_image_symbolizing_a_know_2c651568-8b80-44af-82b7-da0b84540245.png'
+coverImage: '/assets/blog/arouse/arpagon__A_book_open_visually_engaging_image_symbolizing_a_know_3c6e39df-50ef-415c-acec-15011458d1cd.png'
 date: '2023-11-12T05:35:07.322Z'
 author:
   name: Sebastian Rojo
   picture: '/assets/blog/authors/me_2023_ArtisanLabs_nologo_300dpi.png'
 ogImage:
-  url: '/assets/blog/arouse/arpagon__A_book_open_visually_engaging_image_symbolizing_a_know_2c651568-8b80-44af-82b7-da0b84540245.png'
+  url: '/assets/blog/arouse/arpagon__A_book_open_visually_engaging_image_symbolizing_a_know_3c6e39df-50ef-415c-acec-15011458d1cd.png'
 ---
 
 ## Introducción
