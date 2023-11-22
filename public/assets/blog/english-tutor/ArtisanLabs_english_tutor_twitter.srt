@@ -1,0 +1,2164 @@
+﻿1
+00:00:05,640 --> 00:00:06,100
+[Artisan en]: <u>Hi,</u> this is Artisan English Tutor AI.
+
+2
+00:00:06,100 --> 00:00:06,160
+[Artisan en]: Hi, this is Artisan English Tutor AI.
+
+3
+00:00:06,160 --> 00:00:06,240
+[Artisan en]: Hi, <u>this</u> is Artisan English Tutor AI.
+
+4
+00:00:06,240 --> 00:00:06,260
+[Artisan en]: Hi, this is Artisan English Tutor AI.
+
+5
+00:00:06,260 --> 00:00:06,320
+[Artisan en]: Hi, this <u>is</u> Artisan English Tutor AI.
+
+6
+00:00:06,320 --> 00:00:06,360
+[Artisan en]: Hi, this is Artisan English Tutor AI.
+
+7
+00:00:06,360 --> 00:00:06,600
+[Artisan en]: Hi, this is <u>Artisan</u> English Tutor AI.
+
+8
+00:00:06,600 --> 00:00:06,640
+[Artisan en]: Hi, this is Artisan English Tutor AI.
+
+9
+00:00:06,640 --> 00:00:06,940
+[Artisan en]: Hi, this is Artisan <u>English</u> Tutor AI.
+
+10
+00:00:06,940 --> 00:00:06,980
+[Artisan en]: Hi, this is Artisan English Tutor AI.
+
+11
+00:00:06,980 --> 00:00:07,120
+[Artisan en]: Hi, this is Artisan English <u>Tutor</u> AI.
+
+12
+00:00:07,120 --> 00:00:07,140
+[Artisan en]: Hi, this is Artisan English Tutor AI.
+
+13
+00:00:07,140 --> 00:00:07,200
+[Artisan en]: Hi, this is Artisan English Tutor <u>AI.</u>
+
+14
+00:00:07,220 --> 00:00:07,320
+[Artisan en]: <u>How</u> are you today?
+
+15
+00:00:07,320 --> 00:00:07,380
+[Artisan en]: How are you today?
+
+16
+00:00:07,380 --> 00:00:07,580
+[Artisan en]: How <u>are</u> you today?
+
+17
+00:00:07,580 --> 00:00:08,261
+[Artisan en]: How are you today?
+
+18
+00:00:08,261 --> 00:00:08,441
+[Artisan en]: How are <u>you</u> today?
+
+19
+00:00:08,441 --> 00:00:08,461
+[Artisan en]: How are you today?
+
+20
+00:00:08,461 --> 00:00:08,761
+[Artisan en]: How are you <u>today?</u>
+
+21
+00:00:09,621 --> 00:00:09,801
+[Sebastian Rojo]: <u>Very</u> good, thank you.
+
+22
+00:00:09,801 --> 00:00:09,841
+[Sebastian Rojo]: Very good, thank you.
+
+23
+00:00:09,841 --> 00:00:10,121
+[Sebastian Rojo]: Very <u>good,</u> thank you.
+
+24
+00:00:10,121 --> 00:00:10,161
+[Sebastian Rojo]: Very good, thank you.
+
+25
+00:00:10,161 --> 00:00:10,301
+[Sebastian Rojo]: Very good, <u>thank</u> you.
+
+26
+00:00:10,301 --> 00:00:10,361
+[Sebastian Rojo]: Very good, thank you.
+
+27
+00:00:10,361 --> 00:00:10,941
+[Sebastian Rojo]: Very good, thank <u>you.</u>
+
+28
+00:00:11,001 --> 00:00:11,361
+[Sebastian Rojo]: <u>Artisan,</u> I'm recording a demo for you know.
+
+29
+00:00:11,361 --> 00:00:11,441
+[Sebastian Rojo]: Artisan, I'm recording a demo for you know.
+
+30
+00:00:11,441 --> 00:00:11,641
+[Sebastian Rojo]: Artisan, <u>I'm</u> recording a demo for you know.
+
+31
+00:00:11,641 --> 00:00:11,681
+[Sebastian Rojo]: Artisan, I'm recording a demo for you know.
+
+32
+00:00:11,681 --> 00:00:12,041
+[Sebastian Rojo]: Artisan, I'm <u>recording</u> a demo for you know.
+
+33
+00:00:12,041 --> 00:00:12,061
+[Sebastian Rojo]: Artisan, I'm recording a demo for you know.
+
+34
+00:00:12,061 --> 00:00:12,082
+[Sebastian Rojo]: Artisan, I'm recording <u>a</u> demo for you know.
+
+35
+00:00:12,082 --> 00:00:12,122
+[Sebastian Rojo]: Artisan, I'm recording a demo for you know.
+
+36
+00:00:12,122 --> 00:00:12,462
+[Sebastian Rojo]: Artisan, I'm recording a <u>demo</u> for you know.
+
+37
+00:00:12,462 --> 00:00:13,002
+[Sebastian Rojo]: Artisan, I'm recording a demo for you know.
+
+38
+00:00:13,002 --> 00:00:13,322
+[Sebastian Rojo]: Artisan, I'm recording a demo <u>for</u> you know.
+
+39
+00:00:13,322 --> 00:00:13,562
+[Sebastian Rojo]: Artisan, I'm recording a demo for you know.
+
+40
+00:00:13,562 --> 00:00:13,862
+[Sebastian Rojo]: Artisan, I'm recording a demo for <u>you</u> know.
+
+41
+00:00:13,862 --> 00:00:13,902
+[Sebastian Rojo]: Artisan, I'm recording a demo for you know.
+
+42
+00:00:13,902 --> 00:00:14,062
+[Sebastian Rojo]: Artisan, I'm recording a demo for you <u>know.</u>
+
+43
+00:00:14,542 --> 00:00:14,602
+[Sebastian Rojo]: <u>I</u> want to show your potential for practicing English with you, okay?
+
+44
+00:00:14,602 --> 00:00:14,662
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+45
+00:00:14,662 --> 00:00:14,842
+[Sebastian Rojo]: I <u>want</u> to show your potential for practicing English with you, okay?
+
+46
+00:00:14,842 --> 00:00:14,882
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+47
+00:00:14,882 --> 00:00:14,982
+[Sebastian Rojo]: I want <u>to</u> show your potential for practicing English with you, okay?
+
+48
+00:00:14,982 --> 00:00:15,082
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+49
+00:00:15,082 --> 00:00:15,442
+[Sebastian Rojo]: I want to <u>show</u> your potential for practicing English with you, okay?
+
+50
+00:00:15,442 --> 00:00:15,482
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+51
+00:00:15,482 --> 00:00:15,642
+[Sebastian Rojo]: I want to show <u>your</u> potential for practicing English with you, okay?
+
+52
+00:00:15,642 --> 00:00:15,662
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+53
+00:00:15,662 --> 00:00:16,082
+[Sebastian Rojo]: I want to show your <u>potential</u> for practicing English with you, okay?
+
+54
+00:00:16,082 --> 00:00:16,122
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+55
+00:00:16,122 --> 00:00:16,242
+[Sebastian Rojo]: I want to show your potential <u>for</u> practicing English with you, okay?
+
+56
+00:00:16,242 --> 00:00:16,483
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+57
+00:00:16,483 --> 00:00:16,863
+[Sebastian Rojo]: I want to show your potential for <u>practicing</u> English with you, okay?
+
+58
+00:00:16,863 --> 00:00:16,883
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+59
+00:00:16,883 --> 00:00:17,043
+[Sebastian Rojo]: I want to show your potential for practicing <u>English</u> with you, okay?
+
+60
+00:00:17,043 --> 00:00:17,103
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+61
+00:00:17,103 --> 00:00:17,423
+[Sebastian Rojo]: I want to show your potential for practicing English <u>with</u> you, okay?
+
+62
+00:00:17,423 --> 00:00:17,603
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+63
+00:00:17,603 --> 00:00:17,723
+[Sebastian Rojo]: I want to show your potential for practicing English with <u>you,</u> okay?
+
+64
+00:00:17,723 --> 00:00:17,803
+[Sebastian Rojo]: I want to show your potential for practicing English with you, okay?
+
+65
+00:00:17,803 --> 00:00:17,923
+[Sebastian Rojo]: I want to show your potential for practicing English with you, <u>okay?</u>
+
+66
+00:00:22,544 --> 00:00:22,664
+[Artisan en]: <u>Of</u> course, I'm here to help you improve your English skills.
+
+67
+00:00:22,664 --> 00:00:22,684
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+68
+00:00:22,684 --> 00:00:22,964
+[Artisan en]: Of <u>course,</u> I'm here to help you improve your English skills.
+
+69
+00:00:22,964 --> 00:00:23,144
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+70
+00:00:23,144 --> 00:00:23,184
+[Artisan en]: Of course, <u>I'm</u> here to help you improve your English skills.
+
+71
+00:00:23,184 --> 00:00:23,224
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+72
+00:00:23,224 --> 00:00:23,344
+[Artisan en]: Of course, I'm <u>here</u> to help you improve your English skills.
+
+73
+00:00:23,344 --> 00:00:23,364
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+74
+00:00:23,364 --> 00:00:23,444
+[Artisan en]: Of course, I'm here <u>to</u> help you improve your English skills.
+
+75
+00:00:23,444 --> 00:00:23,464
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+76
+00:00:23,464 --> 00:00:23,604
+[Artisan en]: Of course, I'm here to <u>help</u> you improve your English skills.
+
+77
+00:00:23,604 --> 00:00:23,624
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+78
+00:00:23,624 --> 00:00:23,684
+[Artisan en]: Of course, I'm here to help <u>you</u> improve your English skills.
+
+79
+00:00:23,684 --> 00:00:23,724
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+80
+00:00:23,724 --> 00:00:23,924
+[Artisan en]: Of course, I'm here to help you <u>improve</u> your English skills.
+
+81
+00:00:23,924 --> 00:00:23,944
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+82
+00:00:23,944 --> 00:00:24,044
+[Artisan en]: Of course, I'm here to help you improve <u>your</u> English skills.
+
+83
+00:00:24,044 --> 00:00:24,104
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+84
+00:00:24,104 --> 00:00:24,304
+[Artisan en]: Of course, I'm here to help you improve your <u>English</u> skills.
+
+85
+00:00:24,304 --> 00:00:24,324
+[Artisan en]: Of course, I'm here to help you improve your English skills.
+
+86
+00:00:24,324 --> 00:00:24,764
+[Artisan en]: Of course, I'm here to help you improve your English <u>skills.</u>
+
+87
+00:00:25,465 --> 00:00:25,625
+[Artisan en]: <u>Please</u> tell me which aspect of your English you'd like to practice today.
+
+88
+00:00:25,625 --> 00:00:25,645
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+89
+00:00:25,645 --> 00:00:25,805
+[Artisan en]: Please <u>tell</u> me which aspect of your English you'd like to practice today.
+
+90
+00:00:25,805 --> 00:00:25,825
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+91
+00:00:25,825 --> 00:00:25,865
+[Artisan en]: Please tell <u>me</u> which aspect of your English you'd like to practice today.
+
+92
+00:00:25,865 --> 00:00:25,885
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+93
+00:00:25,885 --> 00:00:26,105
+[Artisan en]: Please tell me <u>which</u> aspect of your English you'd like to practice today.
+
+94
+00:00:26,105 --> 00:00:26,165
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+95
+00:00:26,165 --> 00:00:26,445
+[Artisan en]: Please tell me which <u>aspect</u> of your English you'd like to practice today.
+
+96
+00:00:26,445 --> 00:00:26,465
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+97
+00:00:26,465 --> 00:00:26,525
+[Artisan en]: Please tell me which aspect <u>of</u> your English you'd like to practice today.
+
+98
+00:00:26,525 --> 00:00:26,545
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+99
+00:00:26,545 --> 00:00:26,645
+[Artisan en]: Please tell me which aspect of <u>your</u> English you'd like to practice today.
+
+100
+00:00:26,645 --> 00:00:26,665
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+101
+00:00:26,665 --> 00:00:26,845
+[Artisan en]: Please tell me which aspect of your <u>English</u> you'd like to practice today.
+
+102
+00:00:26,845 --> 00:00:26,865
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+103
+00:00:26,865 --> 00:00:26,985
+[Artisan en]: Please tell me which aspect of your English <u>you'd</u> like to practice today.
+
+104
+00:00:26,985 --> 00:00:27,005
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+105
+00:00:27,005 --> 00:00:27,105
+[Artisan en]: Please tell me which aspect of your English you'd <u>like</u> to practice today.
+
+106
+00:00:27,105 --> 00:00:27,125
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+107
+00:00:27,125 --> 00:00:27,225
+[Artisan en]: Please tell me which aspect of your English you'd like <u>to</u> practice today.
+
+108
+00:00:27,225 --> 00:00:27,245
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+109
+00:00:27,245 --> 00:00:27,665
+[Artisan en]: Please tell me which aspect of your English you'd like to <u>practice</u> today.
+
+110
+00:00:27,665 --> 00:00:27,685
+[Artisan en]: Please tell me which aspect of your English you'd like to practice today.
+
+111
+00:00:27,685 --> 00:00:27,905
+[Artisan en]: Please tell me which aspect of your English you'd like to practice <u>today.</u>
+
+112
+00:00:28,585 --> 00:00:28,645
+[Artisan en]: <u>Is</u> it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+113
+00:00:28,645 --> 00:00:28,685
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+114
+00:00:28,685 --> 00:00:28,745
+[Artisan en]: Is <u>it</u> grammar, writing, or maybe you're looking to expand your vocabulary?
+
+115
+00:00:28,745 --> 00:00:28,785
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+116
+00:00:28,785 --> 00:00:29,105
+[Artisan en]: Is it <u>grammar,</u> writing, or maybe you're looking to expand your vocabulary?
+
+117
+00:00:29,105 --> 00:00:29,325
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+118
+00:00:29,325 --> 00:00:29,666
+[Artisan en]: Is it grammar, <u>writing,</u> or maybe you're looking to expand your vocabulary?
+
+119
+00:00:29,666 --> 00:00:29,866
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+120
+00:00:29,866 --> 00:00:29,946
+[Artisan en]: Is it grammar, writing, <u>or</u> maybe you're looking to expand your vocabulary?
+
+121
+00:00:29,946 --> 00:00:29,986
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+122
+00:00:29,986 --> 00:00:30,086
+[Artisan en]: Is it grammar, writing, or <u>maybe</u> you're looking to expand your vocabulary?
+
+123
+00:00:30,086 --> 00:00:30,106
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+124
+00:00:30,106 --> 00:00:30,266
+[Artisan en]: Is it grammar, writing, or maybe <u>you're</u> looking to expand your vocabulary?
+
+125
+00:00:30,266 --> 00:00:30,286
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+126
+00:00:30,286 --> 00:00:30,586
+[Artisan en]: Is it grammar, writing, or maybe you're <u>looking</u> to expand your vocabulary?
+
+127
+00:00:30,586 --> 00:00:30,606
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+128
+00:00:30,606 --> 00:00:30,646
+[Artisan en]: Is it grammar, writing, or maybe you're looking <u>to</u> expand your vocabulary?
+
+129
+00:00:30,646 --> 00:00:30,666
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+130
+00:00:30,666 --> 00:00:30,946
+[Artisan en]: Is it grammar, writing, or maybe you're looking to <u>expand</u> your vocabulary?
+
+131
+00:00:30,946 --> 00:00:30,966
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+132
+00:00:30,966 --> 00:00:31,046
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand <u>your</u> vocabulary?
+
+133
+00:00:31,046 --> 00:00:31,066
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your vocabulary?
+
+134
+00:00:31,066 --> 00:00:31,586
+[Artisan en]: Is it grammar, writing, or maybe you're looking to expand your <u>vocabulary?</u>
+
+135
+00:00:33,635 --> 00:00:34,035
+[Sebastian Rojo]: <u>Okay,</u> let's do it, let's work in my vocabulary, okay?
+
+136
+00:00:34,035 --> 00:00:34,075
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+137
+00:00:34,075 --> 00:00:34,275
+[Sebastian Rojo]: Okay, <u>let's</u> do it, let's work in my vocabulary, okay?
+
+138
+00:00:34,275 --> 00:00:34,315
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+139
+00:00:34,315 --> 00:00:34,395
+[Sebastian Rojo]: Okay, let's <u>do</u> it, let's work in my vocabulary, okay?
+
+140
+00:00:34,395 --> 00:00:34,515
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+141
+00:00:34,515 --> 00:00:35,276
+[Sebastian Rojo]: Okay, let's do <u>it,</u> let's work in my vocabulary, okay?
+
+142
+00:00:35,276 --> 00:00:35,296
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+143
+00:00:35,296 --> 00:00:35,456
+[Sebastian Rojo]: Okay, let's do it, <u>let's</u> work in my vocabulary, okay?
+
+144
+00:00:35,456 --> 00:00:35,496
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+145
+00:00:35,496 --> 00:00:35,676
+[Sebastian Rojo]: Okay, let's do it, let's <u>work</u> in my vocabulary, okay?
+
+146
+00:00:35,676 --> 00:00:35,756
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+147
+00:00:35,756 --> 00:00:35,916
+[Sebastian Rojo]: Okay, let's do it, let's work <u>in</u> my vocabulary, okay?
+
+148
+00:00:35,916 --> 00:00:35,956
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+149
+00:00:35,956 --> 00:00:36,096
+[Sebastian Rojo]: Okay, let's do it, let's work in <u>my</u> vocabulary, okay?
+
+150
+00:00:36,096 --> 00:00:36,136
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+151
+00:00:36,136 --> 00:00:36,696
+[Sebastian Rojo]: Okay, let's do it, let's work in my <u>vocabulary,</u> okay?
+
+152
+00:00:36,696 --> 00:00:36,776
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, okay?
+
+153
+00:00:36,776 --> 00:00:37,296
+[Sebastian Rojo]: Okay, let's do it, let's work in my vocabulary, <u>okay?</u>
+
+154
+00:00:37,336 --> 00:00:37,376
+[Sebastian Rojo]: <u>I'm</u> reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+155
+00:00:37,376 --> 00:00:37,416
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+156
+00:00:37,416 --> 00:00:37,617
+[Sebastian Rojo]: I'm <u>reading</u> a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+157
+00:00:37,617 --> 00:00:37,677
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+158
+00:00:37,677 --> 00:00:37,717
+[Sebastian Rojo]: I'm reading <u>a</u> book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+159
+00:00:37,717 --> 00:00:37,837
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+160
+00:00:37,837 --> 00:00:38,077
+[Sebastian Rojo]: I'm reading a <u>book</u> by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+161
+00:00:38,077 --> 00:00:38,137
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+162
+00:00:38,137 --> 00:00:38,337
+[Sebastian Rojo]: I'm reading a book <u>by</u> Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+163
+00:00:38,337 --> 00:00:38,397
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+164
+00:00:38,397 --> 00:00:38,637
+[Sebastian Rojo]: I'm reading a book by <u>Walt</u> Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+165
+00:00:38,637 --> 00:00:38,677
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+166
+00:00:38,677 --> 00:00:39,117
+[Sebastian Rojo]: I'm reading a book by Walt <u>Whitman,</u> and I have a lot of problem understanding the old-fashioned vocabulary.
+
+167
+00:00:39,117 --> 00:00:39,217
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+168
+00:00:39,217 --> 00:00:39,337
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, <u>and</u> I have a lot of problem understanding the old-fashioned vocabulary.
+
+169
+00:00:39,337 --> 00:00:39,437
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+170
+00:00:39,437 --> 00:00:39,497
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and <u>I</u> have a lot of problem understanding the old-fashioned vocabulary.
+
+171
+00:00:39,497 --> 00:00:39,557
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+172
+00:00:39,557 --> 00:00:39,777
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I <u>have</u> a lot of problem understanding the old-fashioned vocabulary.
+
+173
+00:00:39,777 --> 00:00:39,837
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+174
+00:00:39,837 --> 00:00:39,857
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have <u>a</u> lot of problem understanding the old-fashioned vocabulary.
+
+175
+00:00:39,857 --> 00:00:39,877
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+176
+00:00:39,877 --> 00:00:39,977
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a <u>lot</u> of problem understanding the old-fashioned vocabulary.
+
+177
+00:00:39,977 --> 00:00:39,997
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+178
+00:00:39,997 --> 00:00:40,097
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot <u>of</u> problem understanding the old-fashioned vocabulary.
+
+179
+00:00:40,097 --> 00:00:40,177
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+180
+00:00:40,177 --> 00:00:40,538
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of <u>problem</u> understanding the old-fashioned vocabulary.
+
+181
+00:00:40,538 --> 00:00:40,598
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+182
+00:00:40,598 --> 00:00:41,178
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem <u>understanding</u> the old-fashioned vocabulary.
+
+183
+00:00:41,178 --> 00:00:41,198
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+184
+00:00:41,198 --> 00:00:41,278
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding <u>the</u> old-fashioned vocabulary.
+
+185
+00:00:41,278 --> 00:00:41,358
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+186
+00:00:41,358 --> 00:00:41,898
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the <u>old-fashioned</u> vocabulary.
+
+187
+00:00:41,898 --> 00:00:41,918
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned vocabulary.
+
+188
+00:00:41,918 --> 00:00:42,578
+[Sebastian Rojo]: I'm reading a book by Walt Whitman, and I have a lot of problem understanding the old-fashioned <u>vocabulary.</u>
+
+189
+00:00:43,219 --> 00:00:43,259
+[Sebastian Rojo]: <u>I</u> don't get, for example, I don't get the word loafe.
+
+190
+00:00:43,259 --> 00:00:43,279
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+191
+00:00:43,279 --> 00:00:43,499
+[Sebastian Rojo]: I <u>don't</u> get, for example, I don't get the word loafe.
+
+192
+00:00:43,499 --> 00:00:43,539
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+193
+00:00:43,539 --> 00:00:43,819
+[Sebastian Rojo]: I don't <u>get,</u> for example, I don't get the word loafe.
+
+194
+00:00:43,819 --> 00:00:43,859
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+195
+00:00:43,859 --> 00:00:43,939
+[Sebastian Rojo]: I don't get, <u>for</u> example, I don't get the word loafe.
+
+196
+00:00:43,939 --> 00:00:43,959
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+197
+00:00:43,959 --> 00:00:44,459
+[Sebastian Rojo]: I don't get, for <u>example,</u> I don't get the word loafe.
+
+198
+00:00:44,459 --> 00:00:44,639
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+199
+00:00:44,639 --> 00:00:44,699
+[Sebastian Rojo]: I don't get, for example, <u>I</u> don't get the word loafe.
+
+200
+00:00:44,699 --> 00:00:44,719
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+201
+00:00:44,719 --> 00:00:44,939
+[Sebastian Rojo]: I don't get, for example, I <u>don't</u> get the word loafe.
+
+202
+00:00:44,939 --> 00:00:44,999
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+203
+00:00:44,999 --> 00:00:45,379
+[Sebastian Rojo]: I don't get, for example, I don't <u>get</u> the word loafe.
+
+204
+00:00:45,379 --> 00:00:45,419
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+205
+00:00:45,419 --> 00:00:45,519
+[Sebastian Rojo]: I don't get, for example, I don't get <u>the</u> word loafe.
+
+206
+00:00:45,519 --> 00:00:45,600
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+207
+00:00:45,600 --> 00:00:46,080
+[Sebastian Rojo]: I don't get, for example, I don't get the <u>word</u> loafe.
+
+208
+00:00:46,080 --> 00:00:46,540
+[Sebastian Rojo]: I don't get, for example, I don't get the word loafe.
+
+209
+00:00:46,540 --> 00:00:46,980
+[Sebastian Rojo]: I don't get, for example, I don't get the word <u>loafe.</u>
+
+210
+00:00:49,541 --> 00:00:52,485
+[Sebastian Rojo]: <u>L-O-A-F-E.</u>
+
+211
+00:01:02,481 --> 00:01:02,521
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+212
+00:01:02,521 --> 00:01:02,561
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+213
+00:01:02,561 --> 00:01:02,601
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+214
+00:01:02,601 --> 00:01:02,661
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+215
+00:01:02,661 --> 00:01:03,121
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+216
+00:01:03,121 --> 00:01:03,161
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+217
+00:01:03,161 --> 00:01:03,261
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+218
+00:01:03,261 --> 00:01:03,281
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+219
+00:01:03,281 --> 00:01:03,321
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+220
+00:01:03,321 --> 00:01:03,341
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+221
+00:01:03,341 --> 00:01:03,481
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+222
+00:01:03,481 --> 00:01:03,501
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+223
+00:01:03,501 --> 00:01:03,661
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+224
+00:01:03,661 --> 00:01:03,681
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+225
+00:01:03,681 --> 00:01:03,921
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+226
+00:01:03,921 --> 00:01:04,062
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+227
+00:01:04,062 --> 00:01:04,342
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+228
+00:01:04,342 --> 00:01:04,422
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+229
+00:01:04,422 --> 00:01:04,462
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+230
+00:01:04,462 --> 00:01:04,482
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+231
+00:01:04,482 --> 00:01:04,782
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+232
+00:01:04,782 --> 00:01:04,802
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+233
+00:01:04,802 --> 00:01:04,842
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+234
+00:01:04,842 --> 00:01:04,882
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+235
+00:01:04,882 --> 00:01:05,262
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+236
+00:01:05,262 --> 00:01:05,302
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+237
+00:01:05,302 --> 00:01:05,442
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+238
+00:01:05,442 --> 00:01:05,502
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+239
+00:01:05,502 --> 00:01:05,562
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+240
+00:01:05,562 --> 00:01:05,602
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+241
+00:01:05,602 --> 00:01:06,062
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+242
+00:01:06,062 --> 00:01:06,242
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+243
+00:01:06,242 --> 00:01:06,322
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+244
+00:01:06,322 --> 00:01:06,382
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+245
+00:01:06,382 --> 00:01:06,982
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+246
+00:01:06,982 --> 00:01:07,123
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+247
+00:01:07,123 --> 00:01:07,423
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+248
+00:01:07,423 --> 00:01:07,443
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+249
+00:01:07,443 --> 00:01:07,963
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+250
+00:01:07,963 --> 00:01:08,003
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+251
+00:01:08,003 --> 00:01:08,443
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+252
+00:01:08,443 --> 00:01:08,583
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+253
+00:01:08,583 --> 00:01:08,683
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+254
+00:01:08,683 --> 00:01:08,763
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+255
+00:01:08,763 --> 00:01:09,223
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+256
+00:01:09,223 --> 00:01:09,243
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+257
+00:01:09,243 --> 00:01:09,463
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+258
+00:01:09,463 --> 00:01:09,703
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+259
+00:01:09,703 --> 00:01:10,023
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+260
+00:01:10,023 --> 00:01:10,063
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+261
+00:01:10,063 --> 00:01:10,143
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+262
+00:01:10,143 --> 00:01:10,164
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+263
+00:01:10,164 --> 00:01:10,504
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+264
+00:01:10,504 --> 00:01:10,604
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+265
+00:01:10,604 --> 00:01:10,644
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+266
+00:01:10,644 --> 00:01:10,684
+[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.
+
+267
+00:01:10,684 --> 00:01:11,064
+<u>[Artisan en]: En el contexto de la obra de Walt Whitman, en particular su poema, Song of Myself, la palabra "loafe" probablemente representa una actividad relajada, similar a launcher o loafing.</u>
+
+268
+00:01:11,724 --> 00:01:11,764
+[Artisan en]: <u>En</u> un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+269
+00:01:11,764 --> 00:01:11,804
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+270
+00:01:11,804 --> 00:01:11,844
+[Artisan en]: En <u>un</u> contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+271
+00:01:11,844 --> 00:01:11,884
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+272
+00:01:11,884 --> 00:01:12,164
+[Artisan en]: En un <u>contexto</u> más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+273
+00:01:12,164 --> 00:01:12,184
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+274
+00:01:12,184 --> 00:01:12,344
+[Artisan en]: En un contexto <u>más</u> amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+275
+00:01:12,344 --> 00:01:12,464
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+276
+00:01:12,464 --> 00:01:12,704
+[Artisan en]: En un contexto más <u>amplio,</u> Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+277
+00:01:12,704 --> 00:01:12,884
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+278
+00:01:12,884 --> 00:01:13,124
+[Artisan en]: En un contexto más amplio, <u>Whitman</u> invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+279
+00:01:13,124 --> 00:01:13,164
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+280
+00:01:13,164 --> 00:01:13,425
+[Artisan en]: En un contexto más amplio, Whitman <u>invita</u> a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+281
+00:01:13,425 --> 00:01:13,485
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+282
+00:01:13,485 --> 00:01:13,505
+[Artisan en]: En un contexto más amplio, Whitman invita <u>a</u> sus lectores a relajarse, observar y experimentar el mundo con él.
+
+283
+00:01:13,505 --> 00:01:13,525
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+284
+00:01:13,525 --> 00:01:13,585
+[Artisan en]: En un contexto más amplio, Whitman invita a <u>sus</u> lectores a relajarse, observar y experimentar el mundo con él.
+
+285
+00:01:13,585 --> 00:01:13,625
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+286
+00:01:13,625 --> 00:01:13,845
+[Artisan en]: En un contexto más amplio, Whitman invita a sus <u>lectores</u> a relajarse, observar y experimentar el mundo con él.
+
+287
+00:01:13,845 --> 00:01:13,865
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+288
+00:01:13,865 --> 00:01:13,885
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores <u>a</u> relajarse, observar y experimentar el mundo con él.
+
+289
+00:01:13,885 --> 00:01:13,945
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+290
+00:01:13,945 --> 00:01:14,145
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a <u>relajarse,</u> observar y experimentar el mundo con él.
+
+291
+00:01:14,145 --> 00:01:14,205
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+292
+00:01:14,205 --> 00:01:14,425
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, <u>observar</u> y experimentar el mundo con él.
+
+293
+00:01:14,425 --> 00:01:14,445
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+294
+00:01:14,445 --> 00:01:14,465
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar <u>y</u> experimentar el mundo con él.
+
+295
+00:01:14,465 --> 00:01:14,665
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+296
+00:01:14,665 --> 00:01:15,005
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y <u>experimentar</u> el mundo con él.
+
+297
+00:01:15,005 --> 00:01:15,065
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+298
+00:01:15,065 --> 00:01:15,105
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar <u>el</u> mundo con él.
+
+299
+00:01:15,105 --> 00:01:15,265
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+300
+00:01:15,265 --> 00:01:15,405
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el <u>mundo</u> con él.
+
+301
+00:01:15,405 --> 00:01:15,425
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+302
+00:01:15,425 --> 00:01:15,485
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo <u>con</u> él.
+
+303
+00:01:15,485 --> 00:01:15,505
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+304
+00:01:15,505 --> 00:01:15,545
+[Artisan en]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con <u>él.</u>
+
+305
+00:01:15,565 --> 00:01:15,645
+[Artisan en]: <u>¿Hay</u> alguna otra palabra o frase que no entiendas?
+
+306
+00:01:15,645 --> 00:01:15,665
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+307
+00:01:15,665 --> 00:01:15,825
+[Artisan en]: ¿Hay <u>alguna</u> otra palabra o frase que no entiendas?
+
+308
+00:01:15,825 --> 00:01:15,845
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+309
+00:01:15,845 --> 00:01:15,965
+[Artisan en]: ¿Hay alguna <u>otra</u> palabra o frase que no entiendas?
+
+310
+00:01:15,965 --> 00:01:15,985
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+311
+00:01:15,985 --> 00:01:16,245
+[Artisan en]: ¿Hay alguna otra <u>palabra</u> o frase que no entiendas?
+
+312
+00:01:16,245 --> 00:01:16,265
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+313
+00:01:16,265 --> 00:01:16,285
+[Artisan en]: ¿Hay alguna otra palabra <u>o</u> frase que no entiendas?
+
+314
+00:01:16,285 --> 00:01:16,305
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+315
+00:01:16,305 --> 00:01:16,426
+[Artisan en]: ¿Hay alguna otra palabra o <u>frase</u> que no entiendas?
+
+316
+00:01:16,426 --> 00:01:16,446
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+317
+00:01:16,446 --> 00:01:16,526
+[Artisan en]: ¿Hay alguna otra palabra o frase <u>que</u> no entiendas?
+
+318
+00:01:16,526 --> 00:01:16,566
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+319
+00:01:16,566 --> 00:01:16,666
+[Artisan en]: ¿Hay alguna otra palabra o frase que <u>no</u> entiendas?
+
+320
+00:01:16,666 --> 00:01:17,206
+[Artisan en]: ¿Hay alguna otra palabra o frase que no entiendas?
+
+321
+00:01:17,206 --> 00:01:17,446
+[Artisan en]: ¿Hay alguna otra palabra o frase que no <u>entiendas?</u>
+
+322
+00:01:17,466 --> 00:01:17,526
+[Artisan en]: <u>Ok,</u> tengo un problema para entender.
+
+323
+00:01:17,526 --> 00:01:17,546
+[Artisan en]: Ok, tengo un problema para entender.
+
+324
+00:01:17,546 --> 00:01:17,706
+[Artisan en]: Ok, <u>tengo</u> un problema para entender.
+
+325
+00:01:17,706 --> 00:01:17,766
+[Artisan en]: Ok, tengo un problema para entender.
+
+326
+00:01:17,766 --> 00:01:17,826
+[Artisan en]: Ok, tengo <u>un</u> problema para entender.
+
+327
+00:01:17,826 --> 00:01:17,866
+[Artisan en]: Ok, tengo un problema para entender.
+
+328
+00:01:17,866 --> 00:01:18,066
+[Artisan en]: Ok, tengo un <u>problema</u> para entender.
+
+329
+00:01:18,066 --> 00:01:18,086
+[Artisan en]: Ok, tengo un problema para entender.
+
+330
+00:01:18,086 --> 00:01:18,186
+[Artisan en]: Ok, tengo un problema <u>para</u> entender.
+
+331
+00:01:18,186 --> 00:01:18,206
+[Artisan en]: Ok, tengo un problema para entender.
+
+332
+00:01:18,206 --> 00:01:18,406
+[Artisan en]: Ok, tengo un problema para <u>entender.</u>
+
+333
+00:01:18,426 --> 00:01:18,566
+[Sebastian Rojo]: <u>Por</u> favor, explícame esto en español, ¿de acuerdo?
+
+334
+00:01:18,566 --> 00:01:18,606
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de acuerdo?
+
+335
+00:01:18,606 --> 00:01:18,726
+[Sebastian Rojo]: Por <u>favor,</u> explícame esto en español, ¿de acuerdo?
+
+336
+00:01:18,726 --> 00:01:18,746
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de acuerdo?
+
+337
+00:01:18,746 --> 00:01:19,006
+[Sebastian Rojo]: Por favor, <u>explícame</u> esto en español, ¿de acuerdo?
+
+338
+00:01:19,006 --> 00:01:19,066
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de acuerdo?
+
+339
+00:01:19,066 --> 00:01:19,206
+[Sebastian Rojo]: Por favor, explícame <u>esto</u> en español, ¿de acuerdo?
+
+340
+00:01:19,206 --> 00:01:19,226
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de acuerdo?
+
+341
+00:01:19,226 --> 00:01:19,266
+[Sebastian Rojo]: Por favor, explícame esto <u>en</u> español, ¿de acuerdo?
+
+342
+00:01:19,266 --> 00:01:19,346
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de acuerdo?
+
+343
+00:01:19,346 --> 00:01:19,627
+[Sebastian Rojo]: Por favor, explícame esto en <u>español,</u> ¿de acuerdo?
+
+344
+00:01:19,627 --> 00:01:24,208
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de acuerdo?
+
+345
+00:01:24,208 --> 00:01:24,488
+[Sebastian Rojo]: Por favor, explícame esto en español, <u>¿de</u> acuerdo?
+
+346
+00:01:24,488 --> 00:01:24,508
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de acuerdo?
+
+347
+00:01:24,508 --> 00:01:25,108
+[Sebastian Rojo]: Por favor, explícame esto en español, ¿de <u>acuerdo?</u>
+
+348
+00:01:29,130 --> 00:01:29,390
+[Artisan es]: <u>Claro,</u> puedo hacer eso.
+
+349
+00:01:29,390 --> 00:01:29,650
+[Artisan es]: Claro, puedo hacer eso.
+
+350
+00:01:29,650 --> 00:01:29,830
+[Artisan es]: Claro, <u>puedo</u> hacer eso.
+
+351
+00:01:29,830 --> 00:01:29,850
+[Artisan es]: Claro, puedo hacer eso.
+
+352
+00:01:29,850 --> 00:01:30,030
+[Artisan es]: Claro, puedo <u>hacer</u> eso.
+
+353
+00:01:30,030 --> 00:01:30,090
+[Artisan es]: Claro, puedo hacer eso.
+
+354
+00:01:30,090 --> 00:01:30,250
+[Artisan es]: Claro, puedo hacer <u>eso.</u>
+
+355
+00:01:33,323 --> 00:01:33,403
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+356
+00:01:33,403 --> 00:01:33,443
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+357
+00:01:33,443 --> 00:01:33,523
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+358
+00:01:33,523 --> 00:01:33,583
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+359
+00:01:33,583 --> 00:01:33,984
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+360
+00:01:33,984 --> 00:01:34,024
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+361
+00:01:34,024 --> 00:01:34,084
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+362
+00:01:34,084 --> 00:01:34,124
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+363
+00:01:34,124 --> 00:01:34,184
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+364
+00:01:34,184 --> 00:01:34,264
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+365
+00:01:34,264 --> 00:01:34,404
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+366
+00:01:34,404 --> 00:01:34,444
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+367
+00:01:34,444 --> 00:01:34,524
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+368
+00:01:34,524 --> 00:01:34,604
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+369
+00:01:34,604 --> 00:01:34,784
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+370
+00:01:34,784 --> 00:01:34,844
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+371
+00:01:34,844 --> 00:01:35,205
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+372
+00:01:35,205 --> 00:01:35,525
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+373
+00:01:35,525 --> 00:01:36,206
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+374
+00:01:36,206 --> 00:01:36,226
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+375
+00:01:36,226 --> 00:01:36,266
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+376
+00:01:36,266 --> 00:01:36,426
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+377
+00:01:36,426 --> 00:01:36,706
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+378
+00:01:36,706 --> 00:01:36,906
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+379
+00:01:36,906 --> 00:01:37,287
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+380
+00:01:37,287 --> 00:01:37,327
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+381
+00:01:37,327 --> 00:01:37,387
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+382
+00:01:37,387 --> 00:01:37,427
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+383
+00:01:37,427 --> 00:01:37,507
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+384
+00:01:37,507 --> 00:01:37,547
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+385
+00:01:37,547 --> 00:01:37,807
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+386
+00:01:37,807 --> 00:01:38,107
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+387
+00:01:38,107 --> 00:01:38,167
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+388
+00:01:38,167 --> 00:01:38,228
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+389
+00:01:38,228 --> 00:01:38,508
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+390
+00:01:38,508 --> 00:01:38,708
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+391
+00:01:38,708 --> 00:01:38,768
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+392
+00:01:38,768 --> 00:01:38,808
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+393
+00:01:38,808 --> 00:01:39,048
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+394
+00:01:39,048 --> 00:01:39,268
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+395
+00:01:39,268 --> 00:01:39,869
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+396
+00:01:39,869 --> 00:01:39,969
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+397
+00:01:39,969 --> 00:01:40,449
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+398
+00:01:40,449 --> 00:01:40,530
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+399
+00:01:40,530 --> 00:01:40,630
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+400
+00:01:40,630 --> 00:01:40,670
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+401
+00:01:40,670 --> 00:01:41,050
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+402
+00:01:41,050 --> 00:01:41,130
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+403
+00:01:41,130 --> 00:01:41,510
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+404
+00:01:41,510 --> 00:01:41,571
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+405
+00:01:41,571 --> 00:01:41,611
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+406
+00:01:41,611 --> 00:01:41,651
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+407
+00:01:41,651 --> 00:01:42,011
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+408
+00:01:42,011 --> 00:01:42,271
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+409
+00:01:42,271 --> 00:01:42,631
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+410
+00:01:42,631 --> 00:01:42,651
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+411
+00:01:42,651 --> 00:01:42,671
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+412
+00:01:42,671 --> 00:01:42,692
+[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.
+
+413
+00:01:42,692 --> 00:01:43,252
+<u>[Artisan es]: En el contexto de la obra de Walt Whitman, particularmente su poema, Canción de mí mismo, la palabra "loafe", probablemente representa una actividad relajada y plácida, similar a holgazanear.</u>
+
+414
+00:01:44,013 --> 00:01:44,113
+[Artisan es]: <u>En</u> un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+415
+00:01:44,113 --> 00:01:44,153
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+416
+00:01:44,153 --> 00:01:44,213
+[Artisan es]: En <u>un</u> contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+417
+00:01:44,213 --> 00:01:44,273
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+418
+00:01:44,273 --> 00:01:44,653
+[Artisan es]: En un <u>contexto</u> más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+419
+00:01:44,653 --> 00:01:44,733
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+420
+00:01:44,733 --> 00:01:44,853
+[Artisan es]: En un contexto <u>más</u> amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+421
+00:01:44,853 --> 00:01:44,934
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+422
+00:01:44,934 --> 00:01:45,214
+[Artisan es]: En un contexto más <u>amplio,</u> Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+423
+00:01:45,214 --> 00:01:45,234
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+424
+00:01:45,234 --> 00:01:45,854
+[Artisan es]: En un contexto más amplio, <u>Whitman</u> invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+425
+00:01:45,854 --> 00:01:45,914
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+426
+00:01:45,914 --> 00:01:46,195
+[Artisan es]: En un contexto más amplio, Whitman <u>invita</u> a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+427
+00:01:46,195 --> 00:01:46,215
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+428
+00:01:46,215 --> 00:01:46,235
+[Artisan es]: En un contexto más amplio, Whitman invita <u>a</u> sus lectores a relajarse, observar y experimentar el mundo con él.
+
+429
+00:01:46,235 --> 00:01:46,295
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+430
+00:01:46,295 --> 00:01:46,395
+[Artisan es]: En un contexto más amplio, Whitman invita a <u>sus</u> lectores a relajarse, observar y experimentar el mundo con él.
+
+431
+00:01:46,395 --> 00:01:46,455
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+432
+00:01:46,455 --> 00:01:46,795
+[Artisan es]: En un contexto más amplio, Whitman invita a sus <u>lectores</u> a relajarse, observar y experimentar el mundo con él.
+
+433
+00:01:46,795 --> 00:01:46,815
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+434
+00:01:46,815 --> 00:01:46,835
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores <u>a</u> relajarse, observar y experimentar el mundo con él.
+
+435
+00:01:46,835 --> 00:01:46,955
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+436
+00:01:46,955 --> 00:01:47,476
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a <u>relajarse,</u> observar y experimentar el mundo con él.
+
+437
+00:01:47,476 --> 00:01:47,676
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+438
+00:01:47,676 --> 00:01:48,056
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, <u>observar</u> y experimentar el mundo con él.
+
+439
+00:01:48,056 --> 00:01:48,096
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+440
+00:01:48,096 --> 00:01:48,136
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar <u>y</u> experimentar el mundo con él.
+
+441
+00:01:48,136 --> 00:01:48,156
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+442
+00:01:48,156 --> 00:01:48,777
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y <u>experimentar</u> el mundo con él.
+
+443
+00:01:48,777 --> 00:01:48,837
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+444
+00:01:48,837 --> 00:01:48,897
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar <u>el</u> mundo con él.
+
+445
+00:01:48,897 --> 00:01:48,957
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+446
+00:01:48,957 --> 00:01:49,157
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el <u>mundo</u> con él.
+
+447
+00:01:49,157 --> 00:01:49,217
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+448
+00:01:49,217 --> 00:01:49,337
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo <u>con</u> él.
+
+449
+00:01:49,337 --> 00:01:49,377
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con él.
+
+450
+00:01:49,377 --> 00:01:49,478
+[Artisan es]: En un contexto más amplio, Whitman invita a sus lectores a relajarse, observar y experimentar el mundo con <u>él.</u>
+
+451
+00:01:50,198 --> 00:01:50,338
+[Artisan es]: <u>¿Hay</u> alguna otra palabra o frase que te resulte difícil de entender?
+
+452
+00:01:50,338 --> 00:01:50,378
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+453
+00:01:50,378 --> 00:01:50,639
+[Artisan es]: ¿Hay <u>alguna</u> otra palabra o frase que te resulte difícil de entender?
+
+454
+00:01:50,639 --> 00:01:50,699
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+455
+00:01:50,699 --> 00:01:50,859
+[Artisan es]: ¿Hay alguna <u>otra</u> palabra o frase que te resulte difícil de entender?
+
+456
+00:01:50,859 --> 00:01:50,919
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+457
+00:01:50,919 --> 00:01:51,199
+[Artisan es]: ¿Hay alguna otra <u>palabra</u> o frase que te resulte difícil de entender?
+
+458
+00:01:51,199 --> 00:01:51,219
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+459
+00:01:51,219 --> 00:01:51,239
+[Artisan es]: ¿Hay alguna otra palabra <u>o</u> frase que te resulte difícil de entender?
+
+460
+00:01:51,239 --> 00:01:51,359
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+461
+00:01:51,359 --> 00:01:51,599
+[Artisan es]: ¿Hay alguna otra palabra o <u>frase</u> que te resulte difícil de entender?
+
+462
+00:01:51,599 --> 00:01:51,640
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+463
+00:01:51,640 --> 00:01:51,720
+[Artisan es]: ¿Hay alguna otra palabra o frase <u>que</u> te resulte difícil de entender?
+
+464
+00:01:51,720 --> 00:01:51,760
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+465
+00:01:51,760 --> 00:01:51,840
+[Artisan es]: ¿Hay alguna otra palabra o frase que <u>te</u> resulte difícil de entender?
+
+466
+00:01:51,840 --> 00:01:51,900
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+467
+00:01:51,900 --> 00:01:52,200
+[Artisan es]: ¿Hay alguna otra palabra o frase que te <u>resulte</u> difícil de entender?
+
+468
+00:01:52,200 --> 00:01:52,260
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+469
+00:01:52,260 --> 00:01:52,600
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte <u>difícil</u> de entender?
+
+470
+00:01:52,600 --> 00:01:52,640
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+471
+00:01:52,640 --> 00:01:52,700
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil <u>de</u> entender?
+
+472
+00:01:52,700 --> 00:01:52,761
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de entender?
+
+473
+00:01:52,761 --> 00:01:53,101
+[Artisan es]: ¿Hay alguna otra palabra o frase que te resulte difícil de <u>entender?</u>
+
+474
+00:01:59,918 --> 00:02:00,098
+[Artisan en]: <u>Sure</u> thing.
+
+475
+00:02:00,098 --> 00:02:00,118
+[Artisan en]: Sure thing.
+
+476
+00:02:00,118 --> 00:02:00,359
+[Artisan en]: Sure <u>thing.</u>
+
+477
+00:02:01,100 --> 00:02:01,260
+[Artisan en]: <u>Let's</u> switch back to English.
+
+478
+00:02:01,260 --> 00:02:01,280
+[Artisan en]: Let's switch back to English.
+
+479
+00:02:01,280 --> 00:02:01,500
+[Artisan en]: Let's <u>switch</u> back to English.
+
+480
+00:02:01,500 --> 00:02:01,520
+[Artisan en]: Let's switch back to English.
+
+481
+00:02:01,520 --> 00:02:01,660
+[Artisan en]: Let's switch <u>back</u> to English.
+
+482
+00:02:01,660 --> 00:02:01,680
+[Artisan en]: Let's switch back to English.
+
+483
+00:02:01,680 --> 00:02:01,800
+[Artisan en]: Let's switch back <u>to</u> English.
+
+484
+00:02:01,800 --> 00:02:01,840
+[Artisan en]: Let's switch back to English.
+
+485
+00:02:01,840 --> 00:02:02,161
+[Artisan en]: Let's switch back to <u>English.</u>
+
+486
+00:02:02,962 --> 00:02:03,142
+[Artisan en]: <u>Just</u> let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+487
+00:02:03,142 --> 00:02:03,162
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+488
+00:02:03,162 --> 00:02:03,262
+[Artisan en]: Just <u>let</u> me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+489
+00:02:03,262 --> 00:02:03,282
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+490
+00:02:03,282 --> 00:02:03,342
+[Artisan en]: Just let <u>me</u> know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+491
+00:02:03,342 --> 00:02:03,362
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+492
+00:02:03,362 --> 00:02:03,542
+[Artisan en]: Just let me <u>know</u> if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+493
+00:02:03,542 --> 00:02:03,582
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+494
+00:02:03,582 --> 00:02:03,663
+[Artisan en]: Just let me know <u>if</u> you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+495
+00:02:03,663 --> 00:02:03,683
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+496
+00:02:03,683 --> 00:02:03,783
+[Artisan en]: Just let me know if <u>you</u> have any more questions regarding vocabulary or anything else you'd like to practice.
+
+497
+00:02:03,783 --> 00:02:03,803
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+498
+00:02:03,803 --> 00:02:03,903
+[Artisan en]: Just let me know if you <u>have</u> any more questions regarding vocabulary or anything else you'd like to practice.
+
+499
+00:02:03,903 --> 00:02:03,923
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+500
+00:02:03,923 --> 00:02:04,043
+[Artisan en]: Just let me know if you have <u>any</u> more questions regarding vocabulary or anything else you'd like to practice.
+
+501
+00:02:04,043 --> 00:02:04,063
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+502
+00:02:04,063 --> 00:02:04,203
+[Artisan en]: Just let me know if you have any <u>more</u> questions regarding vocabulary or anything else you'd like to practice.
+
+503
+00:02:04,203 --> 00:02:04,223
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+504
+00:02:04,223 --> 00:02:04,624
+[Artisan en]: Just let me know if you have any more <u>questions</u> regarding vocabulary or anything else you'd like to practice.
+
+505
+00:02:04,624 --> 00:02:04,644
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+506
+00:02:04,644 --> 00:02:04,964
+[Artisan en]: Just let me know if you have any more questions <u>regarding</u> vocabulary or anything else you'd like to practice.
+
+507
+00:02:04,964 --> 00:02:04,984
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+508
+00:02:04,984 --> 00:02:05,265
+[Artisan en]: Just let me know if you have any more questions regarding <u>vocabulary</u> or anything else you'd like to practice.
+
+509
+00:02:05,265 --> 00:02:05,285
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+510
+00:02:05,285 --> 00:02:05,325
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary <u>or</u> anything else you'd like to practice.
+
+511
+00:02:05,325 --> 00:02:05,385
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+512
+00:02:05,385 --> 00:02:05,565
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or <u>anything</u> else you'd like to practice.
+
+513
+00:02:05,565 --> 00:02:05,645
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+514
+00:02:05,645 --> 00:02:05,745
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything <u>else</u> you'd like to practice.
+
+515
+00:02:05,745 --> 00:02:05,765
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+516
+00:02:05,765 --> 00:02:05,845
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else <u>you'd</u> like to practice.
+
+517
+00:02:05,845 --> 00:02:05,865
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+518
+00:02:05,865 --> 00:02:05,945
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd <u>like</u> to practice.
+
+519
+00:02:05,945 --> 00:02:05,965
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+520
+00:02:05,965 --> 00:02:06,025
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like <u>to</u> practice.
+
+521
+00:02:06,025 --> 00:02:06,045
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to practice.
+
+522
+00:02:06,045 --> 00:02:06,226
+[Artisan en]: Just let me know if you have any more questions regarding vocabulary or anything else you'd like to <u>practice.</u>
+
+523
+00:02:06,246 --> 00:02:06,346
+[Artisan en]: <u>Thank</u> you so much, Artisan.
+
+524
+00:02:06,346 --> 00:02:06,366
+[Artisan en]: Thank you so much, Artisan.
+
+525
+00:02:06,366 --> 00:02:06,426
+[Artisan en]: Thank <u>you</u> so much, Artisan.
+
+526
+00:02:06,426 --> 00:02:06,446
+[Artisan en]: Thank you so much, Artisan.
+
+527
+00:02:06,446 --> 00:02:06,486
+[Artisan en]: Thank you <u>so</u> much, Artisan.
+
+528
+00:02:06,486 --> 00:02:06,506
+[Artisan en]: Thank you so much, Artisan.
+
+529
+00:02:06,506 --> 00:02:06,586
+[Artisan en]: Thank you so <u>much,</u> Artisan.
+
+530
+00:02:06,586 --> 00:02:06,606
+[Artisan en]: Thank you so much, Artisan.
+
+531
+00:02:06,606 --> 00:02:06,786
+[Artisan en]: Thank you so much, <u>Artisan.</u>
+
+532
+00:02:06,806 --> 00:02:10,010
+[Sebastian Rojo]: <u>Goodbye.</u>
+
+533
+00:02:10,050 --> 00:02:10,170
+[Artisan en]: Sure
+
+534
+00:02:10,170 --> 00:02:10,190
+[Artisan en]: Sure
+
+535
+00:02:10,190 --> 00:02:10,391
+[Artisan en]: Sure
+
+536
+00:02:10,391 --> 00:02:14,736
+[Artisan en]: Sure
+
+537
+00:02:14,736 --> 00:02:14,836
+[Artisan en]: Sure
+
+538
+00:02:14,836 --> 00:02:14,856
+[Artisan en]: Sure
+
+539
+00:02:14,856 --> 00:02:15,036
+[Artisan en]: Sure
+
+540
+00:02:15,036 --> 00:02:15,196
+[Artisan en]: Sure
+
+541
+00:02:15,196 --> 00:02:15,457
+<u>[Artisan en]: Sure</u>
+
